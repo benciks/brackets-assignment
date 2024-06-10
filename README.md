@@ -14,3 +14,13 @@ What was not done:
 - Filtering by some attribute, only search was implemented
 - Tests
 - Animations would be nice...
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run dev
+```
