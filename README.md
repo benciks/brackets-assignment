@@ -1,40 +1,17 @@
 # brackets-assignment
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple assignment for pagination, fetching api and displaying the data including search.
 
-## Recommended IDE Setup
+I was quite hesitant to submit this as I didn't have much time to work on it due to bachelor state exam I am having on 13.6, but I thought it would be a good idea to show at least some of my current skills and how I work with the tools I'm familiar with.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Tools used:
+- Vue 3
+- Vite
+- Tailwind
+- TypeScript
 
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+What was not done:
+- Filtering by some attribute, only search was implemented
+- Tests
+- Animations would be nice...
 # brackets-assignment
