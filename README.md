@@ -14,4 +14,3 @@ What was not done:
 - Filtering by some attribute, only search was implemented
 - Tests
 - Animations would be nice...
-# brackets-assignment
